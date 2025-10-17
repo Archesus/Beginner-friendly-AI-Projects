@@ -16,16 +16,6 @@ A collection of AI agent projects using Groq, LangChain, and LanGraph.
 - Location: `./project3`
 - Description: Streamlit app for AI-powered image analysis and classifiaction
 
-## Setup
-
-Each project has its own virtual environment. To run a project:
-```bash
-cd project1  # or project2
-uv run main.py  # or app.py
-```
-
-See individual project READMEs for specific instructions.# Agentic AI Projects
-
 A collection of AI agent projects using Groq, LangChain, and LanGraph.
 
 ## Setup
